@@ -14,7 +14,7 @@ __pycache__/
 *.pyd
 instance/
 .env
-*.sqlite3
+
 
 # Byte-compiled / cache
 *.pyc
@@ -22,7 +22,7 @@ instance/
 *.pyd
 *.pyd
 .Python
-*.db
+
 
 # Editor/IDE
 .vscode/
