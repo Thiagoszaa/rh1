@@ -1,0 +1,36 @@
+# Node (Front-end)
+node_modules/
+dist/
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (Back-end)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+instance/
+.env
+*.sqlite3
+
+# Byte-compiled / cache
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+.Python
+*.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
